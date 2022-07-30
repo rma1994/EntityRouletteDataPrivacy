@@ -1,4 +1,4 @@
-Dead By Roulette: Privacy policy
+Entity's Roulette Privacy policy
 
 This App is not programmed to collect any personally identifiable information. Any all data regarding the user preferences are only stored locally on the App and can be easily delete by removing the App or clearing it data.
 
