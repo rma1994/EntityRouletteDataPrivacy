@@ -4,5 +4,5 @@ This App is not programmed to collect any personally identifiable information. A
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
 
-Richard Matheus
+Richard Matheus<br/>
 richard.matheus@rmapps.com.br
